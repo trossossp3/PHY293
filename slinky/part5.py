@@ -1,6 +1,9 @@
 
 '''
 Amplitude measured when driving force less than natty frequency
+
+like it does not work cuz the data is fucked
+
 '''
 import wave
 from scipy.optimize import curve_fit
